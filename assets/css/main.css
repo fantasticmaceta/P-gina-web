@@ -1789,7 +1789,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #e5474b;
+		color: #0000ff;
 	}
 
 	blockquote {
@@ -3743,10 +3743,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #e5474b;
-		color: #f2a3a5;
+		background-color: #38fb9a;
+		color: #38fb9a;
 		padding: 4em 0 2em 0;
-		background: #e5474b;
+		background: #38fb9a;
 	}
 
 		#footer input, #footer select, #footer textarea {
